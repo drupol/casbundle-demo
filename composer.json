@@ -30,7 +30,7 @@
         "symfony/serializer": "5.4.*",
         "symfony/twig-bundle": "5.4.*",
         "symfony/validator": "5.4.*",
-        "symfony/var-dumper": "5.4.*",
+        "symfony/var-dumper": "6.4.*",
         "symfony/web-profiler-bundle": "5.4.*",
         "symfony/yaml": "5.4.*",
         "twig/extensions": "^1.5"
